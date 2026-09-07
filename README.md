@@ -1,35 +1,29 @@
-# Hi, I'm Syed Talha Ahmed Gardazi, call me Talha! 👋
+# Hi, I'm Syed Talha Ahmed Gardazi — call me Talha 👋
 
-I am a passionate BS CS Graduate from IBA Karachi, currently pursuing an MSc from ELTE, driven by a curiosity for technology and a love for writing. My journey involves delving into computer science, exploring new ideas, and sharing my insights with the community.
+Software Developer at Bank Al Habib. BS CS from IBA Karachi (100% scholarship), currently pursuing an MSc at ELTE. I write about the actual mechanics of shipping code — bugs traced to root cause, real PRs, real review feedback — on my blog.
 
-![stag7824's Stats](https://github-readme-stats.vercel.app/api?username=stag7824&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
+## ✍️ Writing
 
-## 🚀 About Me
+I write [Bug Brewery](https://blogs.bugbrewery.tech) — field notes from real debugging and open source work, not tutorials. Recent posts:
 
-- 🔭 I'm currently working as a Software Developer at Bank Al Habib.
-- I am also doing freelance work at Upwork and Fiverr, albeit my profile there needs a load of work! XD
+- [Two Weeks of Real Open Source Contributions](https://blogs.bugbrewery.tech/two-weeks-of-real-open-source-contributions/)
+- [A Beginner's Glossary to Pull Requests](https://blogs.bugbrewery.tech/a-beginners-glossary-to-pull-requests/)
+- [A Check That Could Never Be True](https://blogs.bugbrewery.tech/a-check-that-could-never-be-true/)
 
-## Tech Stack
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,java,nodejs,nestjs,mongodb,mysql,vue,react,docker,figma,flutter,graphql,git)](https://skillicons.dev)
+## 🌱 Open Source
 
-## 🌱 Currently Exploring
+Contributing to projects I actually use, screened for whether they'll realistically merge outside work — not just star count:
 
-- 🚀 Learning Full Stack Web Development
-  - Exploring the ins and outs of React and Redux for dynamic front-end experiences.
-  - Navigating through the world of React Router for seamless page transitions.
-  - Styling with Tailwind CSS to create modern and responsive user interfaces.
-  - Building server-side applications with NodeJS and NestJS.
-  - Diving into PostgreSQL for efficient and scalable database management, along with a bit of a touch of MongoDB here and there.
-  - Using Docker for containerization. 
+- [nanocoder](https://github.com/Nano-Collective/nanocoder) — fixed `read_file`'s metadata-only detection ([#987](https://github.com/Nano-Collective/nanocoder/pull/987), merged)
+- [Apache DataFusion Ballista](https://github.com/apache/datafusion-ballista) — fixed a Cargo feature that silently didn't forward between crates ([#2373](https://github.com/apache/datafusion-ballista/pull/2373))
+- [Hiero (Hedera) Java SDK](https://github.com/hiero-ledger/hiero-sdk-java) — [#2934](https://github.com/hiero-ledger/hiero-sdk-java/pull/2934)
 
- ## 🏆 Achievements
+## 🛠 Tech Stack
 
-- 🌟 Secured 100% Scholarship at IBA Karachi, by excelling in the entrance exam and competing in specially designed tests for scholarships.
-
+[![My Skills](https://skillicons.dev/icons?i=js,ts,java,rust,nodejs,nestjs,react,vue,mongodb,mysql,postgresql,docker,git,graphql,flutter)](https://skillicons.dev)
 
 ## 📬 Get in Touch
 
-- Connect with me on [LinkedIn](https://linkedin.com/in/stagify)
-- Drop me an email [Email me](mailto:atalha54@gmail.com)
-
-Thanks for stopping by! Let's connect and explore the fascinating world of technology together. 🚀
+- [Bug Brewery](https://blogs.bugbrewery.tech) — my blog
+- [LinkedIn](https://linkedin.com/in/stagify)
+- [atalha54@gmail.com](mailto:atalha54@gmail.com)
