@@ -1,29 +1,53 @@
-# Hi, I'm Syed Talha Ahmed Gardazi — call me Talha 👋
+<div align="center">
 
-Software Developer at Bank Al Habib. BS CS from IBA Karachi (100% scholarship), currently pursuing an MSc at ELTE. I write about the actual mechanics of shipping code — bugs traced to root cause, real PRs, real review feedback — on my blog.
+<img src="assets/header.svg" width="100%" alt="Syed Talha Ahmed Gardazi, software developer" />
 
-## ✍️ Writing
+<img src="assets/typing.svg" alt="Software developer at Bank Al Habib. Merged PRs in Apache, Hiero and nanocoder. I write about bugs I trace to root cause." />
 
-I write [Bug Brewery](https://blogs.bugbrewery.tech) — field notes from real debugging and open source work, not tutorials. Recent posts:
+<br /><br />
+
+<a href="https://gardazi.com"><img src="https://img.shields.io/badge/Portfolio-0d1117?style=for-the-badge&logo=googlechrome&logoColor=ff6b9d" alt="Portfolio" /></a> <a href="https://blogs.bugbrewery.tech"><img src="https://img.shields.io/badge/Blog-0d1117?style=for-the-badge&logo=rss&logoColor=ff6b9d" alt="Blog" /></a> <a href="https://linkedin.com/in/stagify"><img src="https://img.shields.io/badge/LinkedIn-0d1117?style=for-the-badge&logo=linkedin&logoColor=ff6b9d" alt="LinkedIn" /></a> <a href="mailto:atalha54@gmail.com"><img src="https://img.shields.io/badge/Email-0d1117?style=for-the-badge&logo=gmail&logoColor=ff6b9d" alt="Email" /></a>
+<br />
+<a href="https://github.com/pulls?q=is%3Apr+author%3Astag7824+is%3Amerged+-user%3Astag7824+-user%3Asyedabdullahk+-repo%3ANano-Collective%2Forganisation"><img src="https://img.shields.io/github/issues-search?query=is%3Apr%20author%3Astag7824%20is%3Amerged%20-user%3Astag7824%20-user%3Asyedabdullahk%20-repo%3ANano-Collective%2Forganisation&label=merged%20upstream&style=for-the-badge&color=D6115E&labelColor=0d1117" alt="Pull requests merged upstream" /></a>
+
+</div>
+
+<br />
+
+Hi, I'm Talha. I'm a software developer at Bank Al Habib, with a BS in Computer Science from IBA Karachi on a full scholarship, and I'm currently doing an MSc at ELTE.
+
+Outside work I send fixes to open source projects and write up what I find: the bug, how I traced it, and what the maintainers said in review. So far that's merged PRs in Apache DataFusion Ballista, nanocoder and the Hedera Java SDK, with more in review at Apache CloudStack.
+
+## Open source
+
+<div align="center">
+
+<a href="https://github.com/apache/datafusion-ballista/pull/2373"><img src="profile/pin-ballista.svg" width="49%" alt="apache/datafusion-ballista, merged" /></a>
+<a href="https://github.com/Nano-Collective/nanocoder/pull/987"><img src="profile/pin-nanocoder.svg" width="49%" alt="Nano-Collective/nanocoder, merged" /></a>
+<a href="https://github.com/hiero-ledger/hiero-sdk-java/pull/2934"><img src="profile/pin-hiero.svg" width="49%" alt="hiero-ledger/hiero-sdk-java, merged" /></a>
+<a href="https://github.com/apache/cloudstack/pulls?q=is%3Apr+author%3Astag7824"><img src="profile/pin-cloudstack.svg" width="49%" alt="apache/cloudstack, in review" /></a>
+
+</div>
+
+## Stack
+
+<div align="center">
+
+<img src="assets/skills.svg" alt="Java, JavaScript, TypeScript, Rust, Node.js, NestJS, React, Vue, MongoDB, MySQL, PostgreSQL, Docker, Git, GraphQL, Flutter" />
+
+</div>
+
+## Writing
+
+I write [Bug Brewery](https://blogs.bugbrewery.tech), field notes from real debugging and open source work.
 
 - [Two Weeks of Real Open Source Contributions](https://blogs.bugbrewery.tech/two-weeks-of-real-open-source-contributions/)
+- [How to Tell If a Project Will Merge Your PR](https://blogs.bugbrewery.tech/how-to-tell-if-a-project-will-merge-your-pr/)
 - [A Beginner's Glossary to Pull Requests](https://blogs.bugbrewery.tech/a-beginners-glossary-to-pull-requests/)
 - [A Check That Could Never Be True](https://blogs.bugbrewery.tech/a-check-that-could-never-be-true/)
 
-## 🌱 Open Source
+<div align="center">
 
-Contributing to projects I actually use, screened for whether they'll realistically merge outside work — not just star count:
+<img src="assets/footer.svg" width="100%" alt="" />
 
-- [nanocoder](https://github.com/Nano-Collective/nanocoder) — fixed `read_file`'s metadata-only detection ([#987](https://github.com/Nano-Collective/nanocoder/pull/987), merged)
-- [Apache DataFusion Ballista](https://github.com/apache/datafusion-ballista) — fixed a Cargo feature that silently didn't forward between crates ([#2373](https://github.com/apache/datafusion-ballista/pull/2373))
-- [Hiero (Hedera) Java SDK](https://github.com/hiero-ledger/hiero-sdk-java) — [#2934](https://github.com/hiero-ledger/hiero-sdk-java/pull/2934)
-
-## 🛠 Tech Stack
-
-[![My Skills](https://skillicons.dev/icons?i=js,ts,java,rust,nodejs,nestjs,react,vue,mongodb,mysql,postgresql,docker,git,graphql,flutter)](https://skillicons.dev)
-
-## 📬 Get in Touch
-
-- [Bug Brewery](https://blogs.bugbrewery.tech) — my blog
-- [LinkedIn](https://linkedin.com/in/stagify)
-- [atalha54@gmail.com](mailto:atalha54@gmail.com)
+</div>
