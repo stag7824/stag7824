@@ -16,7 +16,7 @@
 
 Hi, I'm Talha. I'm a software developer at Bank Al Habib, with a BS in Computer Science from IBA Karachi on a full scholarship, and I'm currently doing an MSc at ELTE.
 
-Outside work I send fixes to open source projects and write up what I find: the bug, how I traced it, and what the maintainers said in review. So far that's merged PRs in Apache DataFusion Ballista, nanocoder and the Hedera Java SDK, with more in review at Apache CloudStack.
+Outside work I send fixes to open source projects and write up what I find: the bug, how I traced it, and what the maintainers said in review. So far that's merged PRs in Apache DataFusion Ballista, Apache CloudStack, nanocoder and the Hedera Java SDK, with more in review at CloudStack.
 
 ## Open source
 

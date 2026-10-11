@@ -1,11 +1,11 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="480" height="132" viewBox="0 0 480 132" role="img" aria-label="apache/cloudstack: KVM backup restore, domain limits and UI fixes, with tests. (IN REVIEW)">
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="132" viewBox="0 0 480 132" role="img" aria-label="apache/cloudstack: UI fix merged. Backup restore and domain-limit fixes are in review. (MERGED)">
 <rect x=".5" y=".5" width="479" height="131" rx="10" fill="#161b22" stroke="#30363d"/>
 <rect x="0" y="22" width="3" height="30" rx="1.5" fill="#D6115E"/>
 <text x="22" y="40" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif" font-size="16" font-weight="700" fill="#ff6b9d">apache/cloudstack</text>
-<rect x="377" y="24" width="81" height="22" rx="11" fill="#2d230d" stroke="#d29922" stroke-opacity=".6"/>
-<text x="418" y="39" text-anchor="middle" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif" font-size="11" font-weight="700" letter-spacing=".8" fill="#d29922">IN REVIEW</text>
-<text x="22" y="66" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif" font-size="14" fill="#c9d1d9">KVM backup restore, domain limits and UI fixes, with</text><text x="22" y="86" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif" font-size="14" fill="#c9d1d9">tests.</text>
+<rect x="400" y="24" width="58" height="22" rx="11" fill="#0f2d1a" stroke="#3fb950" stroke-opacity=".6"/>
+<text x="429" y="39" text-anchor="middle" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif" font-size="11" font-weight="700" letter-spacing=".8" fill="#3fb950">MERGED</text>
+<text x="22" y="66" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif" font-size="14" fill="#c9d1d9">UI fix merged. Backup restore and domain-limit fixes</text><text x="22" y="86" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif" font-size="14" fill="#c9d1d9">are in review.</text>
 <circle cx="28" cy="113" r="5" fill="#b07219"/>
 <text x="40" y="117" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif" font-size="12" fill="#8b949e">Java</text>
-<text x="458" y="117" text-anchor="end" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif" font-size="12" fill="#8b949e">open PRs</text>
+<text x="458" y="117" text-anchor="end" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif" font-size="12" fill="#8b949e">PR #14163 + more</text>
 </svg>
