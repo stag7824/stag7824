@@ -25,7 +25,7 @@ Outside work I send fixes to open source projects and write up what I find: the 
 <a href="https://github.com/apache/datafusion-ballista/pull/2373"><img src="profile/pin-ballista.svg" width="49%" alt="apache/datafusion-ballista, merged" /></a>
 <a href="https://github.com/Nano-Collective/nanocoder/pull/987"><img src="profile/pin-nanocoder.svg" width="49%" alt="Nano-Collective/nanocoder, merged" /></a>
 <a href="https://github.com/hiero-ledger/hiero-sdk-java/pull/2934"><img src="profile/pin-hiero.svg" width="49%" alt="hiero-ledger/hiero-sdk-java, merged" /></a>
-<a href="https://github.com/apache/cloudstack/pulls?q=is%3Apr+author%3Astag7824"><img src="profile/pin-cloudstack.svg" width="49%" alt="apache/cloudstack, in review" /></a>
+<a href="https://github.com/apache/cloudstack/pulls?q=is%3Apr+author%3Astag7824"><img src="profile/pin-cloudstack.svg" width="49%" alt="apache/cloudstack, merged, more in review" /></a>
 
 </div>
 
