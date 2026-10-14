@@ -6,7 +6,7 @@
 
 <br /><br />
 
-<a href="https://gardazi.com"><img src="https://img.shields.io/badge/Portfolio-0d1117?style=for-the-badge&logo=googlechrome&logoColor=ff6b9d" alt="Portfolio" /></a> <a href="https://blogs.bugbrewery.tech"><img src="https://img.shields.io/badge/Blog-0d1117?style=for-the-badge&logo=rss&logoColor=ff6b9d" alt="Blog" /></a> <a href="https://linkedin.com/in/stagify"><img src="https://img.shields.io/badge/LinkedIn-0d1117?style=for-the-badge&logo=linkedin&logoColor=ff6b9d" alt="LinkedIn" /></a> <a href="mailto:atalha54@gmail.com"><img src="https://img.shields.io/badge/Email-0d1117?style=for-the-badge&logo=gmail&logoColor=ff6b9d" alt="Email" /></a>
+<a href="https://gardazi.com"><img src="https://img.shields.io/badge/Portfolio-0d1117?style=for-the-badge&logo=googlechrome&logoColor=ff6b9d" alt="Portfolio" /></a> <a href="https://blogs.gardazi.com"><img src="https://img.shields.io/badge/Blog-0d1117?style=for-the-badge&logo=rss&logoColor=ff6b9d" alt="Blog" /></a> <a href="https://linkedin.com/in/stagify"><img src="https://img.shields.io/badge/LinkedIn-0d1117?style=for-the-badge&logo=linkedin&logoColor=ff6b9d" alt="LinkedIn" /></a> <a href="mailto:atalha54@gmail.com"><img src="https://img.shields.io/badge/Email-0d1117?style=for-the-badge&logo=gmail&logoColor=ff6b9d" alt="Email" /></a>
 <br />
 <a href="https://github.com/pulls?q=is%3Apr+author%3Astag7824+is%3Amerged+-user%3Astag7824+-user%3Asyedabdullahk+-repo%3ANano-Collective%2Forganisation"><img src="https://img.shields.io/github/issues-search?query=is%3Apr%20author%3Astag7824%20is%3Amerged%20-user%3Astag7824%20-user%3Asyedabdullahk%20-repo%3ANano-Collective%2Forganisation&label=merged%20upstream&style=for-the-badge&color=D6115E&labelColor=0d1117" alt="Pull requests merged upstream" /></a>
 
@@ -39,12 +39,12 @@ Outside work I send fixes to open source projects and write up what I find: the 
 
 ## Writing
 
-I write [Bug Brewery](https://blogs.bugbrewery.tech), field notes from real debugging and open source work.
+I write [Bug Brewery](https://blogs.gardazi.com), field notes from real debugging and open source work.
 
-- [Two Weeks of Real Open Source Contributions](https://blogs.bugbrewery.tech/two-weeks-of-real-open-source-contributions/)
-- [How to Tell If a Project Will Merge Your PR](https://blogs.bugbrewery.tech/how-to-tell-if-a-project-will-merge-your-pr/)
-- [A Beginner's Glossary to Pull Requests](https://blogs.bugbrewery.tech/a-beginners-glossary-to-pull-requests/)
-- [A Check That Could Never Be True](https://blogs.bugbrewery.tech/a-check-that-could-never-be-true/)
+- [Two Weeks of Real Open Source Contributions](https://blogs.gardazi.com/two-weeks-of-real-open-source-contributions/)
+- [How to Tell If a Project Will Merge Your PR](https://blogs.gardazi.com/how-to-tell-if-a-project-will-merge-your-pr/)
+- [A Beginner's Glossary to Pull Requests](https://blogs.gardazi.com/a-beginners-glossary-to-pull-requests/)
+- [A Check That Could Never Be True](https://blogs.gardazi.com/a-check-that-could-never-be-true/)
 
 <div align="center">
 
